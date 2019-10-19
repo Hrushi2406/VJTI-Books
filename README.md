@@ -17,7 +17,7 @@ Hope you enjoy
 
 <img src='https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-05-20%2021-10-47.png' >
 
-<img src='https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-05-20%2021-30-44.png' style="text-align: center;">
+<img src='https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-05-20%2021-30-44.png' style="margin: 0 auto;">
 
 ![Mobile Mode Screen](https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-05-20%2021-30-44.png)
 
