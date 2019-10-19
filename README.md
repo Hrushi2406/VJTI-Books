@@ -10,9 +10,9 @@ Hope you enjoy
 ![Intro Page](https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-04-22%2017-26-44.png)
 
 <br>
-<h2>Buy Section<h2>
-  
-                                          <h3>Desktop Mode</h3>
+<h2>Buy Section</h2>
+                              <h3>Desktop Mode</h3> 
+                                          
                                           
                                           
 ![Home Screen](https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-05-20%2021-10-47.png)
