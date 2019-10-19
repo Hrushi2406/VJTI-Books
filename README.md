@@ -23,6 +23,9 @@ Hope you enjoy
 <h3>Sell Section<h3>
   
   
+  <img src='https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-04-22%2017-27-23.png'/>
+  
+  
 ![Sell Books](https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-04-22%2017-27-23.png)
 
 <h3>Book Overview Section<h3>
