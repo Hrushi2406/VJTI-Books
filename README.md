@@ -21,14 +21,27 @@ Hope you enjoy
   <br>
   
 <h3>Sell Section<h3>
+  
+  
 ![Sell Books](https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-04-22%2017-27-23.png)
 
 <h3>Book Overview Section<h3>
+  
+  
 ![Book Overview](https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-04-22%2017-27-10.png)
+
+
   ![Mobile Mode Screen](https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-05-20%2021-33-27.png)
+  
+  
   <br>
 
 <h3>Profile Section<h3>
+  
+  
 ![Profile Screen](https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-04-22%2017-27-34.png)
+
+
   ![Mobile Mode Screen](https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-05-20%2021-35-02.png)
+  
   <br>
