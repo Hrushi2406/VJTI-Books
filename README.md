@@ -11,29 +11,31 @@ Hope you enjoy
 
 <br>
 <h2>Buy Section</h2>
-                              <h3>Desktop Mode</h3> 
+<h3>Desktop Mode</h3> 
                                           
                                           
                                           
 ![Home Screen](https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-05-20%2021-10-47.png)
 
+<h3>Mobile Mode</h3> 
 
 ![Mobile Mode Screen](https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-05-20%2021-30-44.png)
 
 
   <br>
   
-<h3>Sell Section<h3>
+<h2>Sell Section<h2>
   
   
   
 ![Sell Books](https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-04-22%2017-27-23.png)
 
-<h3>Book Overview Section<h3>
-  
+<h2>Book Overview Section<h2>
+<h3>Desktop Mode<h3>  
   
 ![Book Overview](https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-04-22%2017-27-10.png)
 
+<h3>Mobile Mode</h3> 
 
   ![Mobile Mode Screen](https://raw.githubusercontent.com/Hrushi2406/VJTI-Books/master/public/Screenshots/Screenshot%20from%202019-05-20%2021-33-27.png)
   
